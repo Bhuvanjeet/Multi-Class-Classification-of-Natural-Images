@@ -1,1 +1,1 @@
-# Multi-class-Classification-of-Natural-Images
+# Multi-Class-Classification-of-Natural-Images
